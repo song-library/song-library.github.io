@@ -1,5 +1,4 @@
 import page from "../node_modules/page/page.mjs";
-// import { render } from "../node_modules/lit-html/lit-html.js";
 import { render } from "https://unpkg.com/lit-html?module";
 
 import { homePage } from "./views/home.js";
