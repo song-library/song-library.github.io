@@ -2,7 +2,7 @@
   "_args": [
     [
       "page@1.11.6",
-      "C:\\Users\\A1060764\\Desktop\\what\\song-library.github.io"
+      "C:\\Users\\A1060764\\Desktop\\another\\song-library.github.io"
     ]
   ],
   "_from": "page@1.11.6",
@@ -26,7 +26,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/page/-/page-1.11.6.tgz",
   "_spec": "1.11.6",
-  "_where": "C:\\Users\\A1060764\\Desktop\\what\\song-library.github.io",
+  "_where": "C:\\Users\\A1060764\\Desktop\\another\\song-library.github.io",
   "browser": "page.js",
   "bugs": {
     "url": "https://github.com/visionmedia/page.js/issues"

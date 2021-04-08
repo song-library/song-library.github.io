@@ -1,5 +1,5 @@
 import { html } from "https://unpkg.com/lit-html?module";
-import page from "../../node_modules/page/page.mjs";
+import page from "../../modules/page/page.mjs";
 
 const homeTemplate = (onLogin, onRegister) => html` <div>
     <div class="welcomeAndSignOut">

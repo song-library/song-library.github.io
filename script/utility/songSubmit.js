@@ -1,4 +1,4 @@
-import page from "../../node_modules/page/page.mjs";
+import page from "../../modules/page/page.mjs";
 
 import { createSong } from "../api/data.js";
 import notify from "../views/notify.js";
