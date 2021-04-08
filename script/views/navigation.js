@@ -1,11 +1,11 @@
 import { html, render } from "https://unpkg.com/lit-html?module";
-import page from "../../modules/page/page.mjs";
 
 import toggleAdd from "../utility/toggleAdd.js";
 import toggleDelete from "../utility/toggleDelete.js";
 import { logout } from "../api/data.js";
 
 const navEl = document.querySelector("nav");
+const page = window.page;
 
 const navTemplate = (user, onLogout, toggleAdd, toggleDelete) => html`
   <h1 class="common">Library</h1>

@@ -1,7 +1,7 @@
-import page from "../../modules/page/page.mjs";
-
 import { createArtist } from "../api/data.js";
 import notify from "../views/notify.js";
+
+const page = window.page;
 
 export default async function onArtistSubmit(e) {
   e.preventDefault();
