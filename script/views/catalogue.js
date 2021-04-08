@@ -1,4 +1,5 @@
-import { html } from "../../node_modules/lit-html/lit-html.js";
+// import { html } from "../../node_modules/lit-html/lit-html.js";
+import { html } from "https://unpkg.com/lit-html?module";
 
 import { getArtists, getSongs } from "../api/data.js";
 import onSongSubmit from "../utility/songSubmit.js";

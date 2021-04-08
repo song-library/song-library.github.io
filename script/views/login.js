@@ -1,4 +1,5 @@
-import { html } from "../../node_modules/lit-html/lit-html.js";
+// import { html } from "../../node_modules/lit-html/lit-html.js";
+import { html } from "https://unpkg.com/lit-html?module";
 import { login } from "../api/data.js";
 import notify from "./notify.js";
 

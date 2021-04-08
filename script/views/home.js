@@ -1,4 +1,5 @@
-import { html } from "../../node_modules/lit-html/lit-html.js";
+// import { html } from "../../node_modules/lit-html/lit-html.js";
+import { html } from "https://unpkg.com/lit-html?module";
 import page from "../../node_modules/page/page.mjs";
 
 const homeTemplate = (onLogin, onRegister) => html` <div>
