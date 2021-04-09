@@ -2,6 +2,7 @@
 
 This project is about Song Library.
 App that gives you the opportunity to keep track of all the songs and artists you can name.
+The app is hosted on: https://song-library.github.io/
 
 ## Used services and libraries:
 * lit-html - for client side rendering
